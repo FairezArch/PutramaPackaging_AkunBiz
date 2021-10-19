@@ -1,0 +1,24 @@
+/* CSS Document */
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src:url("fonts/OpenSans-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: 'Open Sans Light';
+  font-style: normal;
+  font-weight: 300;
+  src:url("fonts/OpenSans-Light.ttf") format("truetype");
+}
+
+/* GENERAL */
+body {
+	font-family:'Open Sans', Helvetica, Tahoma, sans-serif;
+	font-size:14px;
+	line-height:20px;
+	color:#000;
+	margin:10px;
+	background:#F7FBFC;
+}

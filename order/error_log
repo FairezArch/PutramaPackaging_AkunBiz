@@ -1,0 +1,53 @@
+[19-Apr-2018 11:09:05 Asia/Jakarta] PHP Warning:  proc_open() has been disabled for security reasons in /home/ideasmart/public_html/apps/mesin/escpos/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 341
+[19-Apr-2018 11:09:05 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Failed to print. Command "smbclient '//server/EPSONTM-U220' -c 'print -' -N" failed with exit code -1:  in /home/ideasmart/public_html/apps/mesin/escpos/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mesin/escpos/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\eE\x01\ea\x01IDEASMA...')
+#1 /home/ideasmart/public_html/apps/mesin/escpos/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/ideasmart/public_html/apps/order/print_order.php(92): Mike42\Escpos\Printer->close()
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mesin/escpos/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[19-Apr-2018 11:09:07 Asia/Jakarta] PHP Warning:  proc_open() has been disabled for security reasons in /home/ideasmart/public_html/apps/mesin/escpos/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 341
+[19-Apr-2018 11:09:07 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: Failed to print. Command "smbclient '//server/EPSONTM-U220' -c 'print -' -N" failed with exit code -1:  in /home/ideasmart/public_html/apps/mesin/escpos/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php:230
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mesin/escpos/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php(175): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalizeLinux('\e@\eE\x01\ea\x01IDEASMA...')
+#1 /home/ideasmart/public_html/apps/mesin/escpos/src/Mike42/Escpos/Printer.php(503): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->finalize()
+#2 /home/ideasmart/public_html/apps/order/print_order.php(92): Mike42\Escpos\Printer->close()
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mesin/escpos/src/Mike42/Escpos/PrintConnectors/WindowsPrintConnector.php on line 230
+[21-Apr-2018 10:22:18 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ideasmart/public_html/apps/order/print_page.php on line 84
+[21-Apr-2018 10:22:18 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ideasmart/public_html/apps/order/print_page.php on line 84
+[21-Apr-2018 10:23:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ideasmart/public_html/apps/order/print_page.php on line 84
+[21-Apr-2018 10:23:37 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ideasmart/public_html/apps/order/print_page.php on line 84
+[23-Apr-2018 09:01:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ideasmart/public_html/apps/order/print_page.php on line 98
+[23-Apr-2018 09:01:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ideasmart/public_html/apps/order/print_page.php on line 98
+[23-Apr-2018 09:01:42 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/ideasmart/public_html/apps/mesin/function.php on line 155
+[23-Apr-2018 09:07:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ideasmart/public_html/apps/order/print_page.php on line 98
+[23-Apr-2018 09:07:42 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ideasmart/public_html/apps/order/print_page.php on line 98
+[23-Apr-2018 09:07:42 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/ideasmart/public_html/apps/mesin/function.php on line 155
+[23-Apr-2018 11:24:16 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ideasmart/public_html/apps/order/print_page.php on line 99
+[23-Apr-2018 11:24:16 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ideasmart/public_html/apps/order/print_page.php on line 99
+[23-Apr-2018 11:24:16 Asia/Jakarta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/ideasmart/public_html/apps/mesin/function.php on line 155
+[23-Apr-2018 04:28:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/ideasmart/public_html/apps/order/print_page.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ideasmart/public_html/apps/order/print_page.php on line 1
+[23-Apr-2018 04:28:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/ideasmart/public_html/apps/order/print_page.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ideasmart/public_html/apps/order/print_page.php on line 1
+[23-Apr-2018 04:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/ideasmart/public_html/apps/order/print_page.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ideasmart/public_html/apps/order/print_page.php on line 1
+[23-Apr-2018 04:29:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/ideasmart/public_html/apps/order/print_page.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ideasmart/public_html/apps/order/print_page.php on line 1
+[23-Apr-2018 04:29:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/ideasmart/public_html/apps/order/print_page.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ideasmart/public_html/apps/order/print_page.php on line 1
+[23-Apr-2018 04:29:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/ideasmart/public_html/apps/order/print_page.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ideasmart/public_html/apps/order/print_page.php on line 1

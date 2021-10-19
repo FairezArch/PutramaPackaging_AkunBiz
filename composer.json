@@ -1,0 +1,17 @@
+{
+    "name": "test-composer/hello-world",
+    "description": "Hello World",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Croket",
+            "email": "croket@mail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "nesbot/carbon": "^1.39",
+        "itbz/fpdf": "dev-master"
+    }
+}

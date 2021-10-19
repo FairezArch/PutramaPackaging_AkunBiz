@@ -1,0 +1,257 @@
+[09-Apr-2018 19:05:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 7
+[09-Apr-2018 19:05:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'CURL Error: error setting certificate verify locations:
+  CAfile: /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/../data/cacert.pem
+  CApath: none' in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:91
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-j...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.san...', 'SB-Mid-server-j...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php(111): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 91
+[09-Apr-2018 19:05:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 7
+[09-Apr-2018 19:05:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'CURL Error: error setting certificate verify locations:
+  CAfile: /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/../data/cacert.pem
+  CApath: none' in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:91
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-j...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.san...', 'SB-Mid-server-j...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php(111): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 91
+[09-Apr-2018 19:06:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 7
+[09-Apr-2018 19:06:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'CURL Error: error setting certificate verify locations:
+  CAfile: /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/../data/cacert.pem
+  CApath: none' in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:91
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-j...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.san...', 'SB-Mid-server-j...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php(111): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 91
+[09-Apr-2018 19:06:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 7
+[09-Apr-2018 19:06:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'CURL Error: error setting certificate verify locations:
+  CAfile: /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/../data/cacert.pem
+  CApath: none' in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:91
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-j...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.san...', 'SB-Mid-server-j...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php(111): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 91
+[09-Apr-2018 19:06:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 7
+[09-Apr-2018 19:06:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'CURL Error: error setting certificate verify locations:
+  CAfile: /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/../data/cacert.pem
+  CApath: none' in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:91
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-j...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.san...', 'SB-Mid-server-j...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php(111): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 91
+[09-Apr-2018 19:07:27 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'CURL Error: error setting certificate verify locations:
+  CAfile: /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/../data/cacert.pem
+  CApath: none' in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:91
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-j...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.san...', 'SB-Mid-server-j...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php(84): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 91
+[09-Apr-2018 19:07:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'CURL Error: error setting certificate verify locations:
+  CAfile: /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/../data/cacert.pem
+  CApath: none' in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:91
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-j...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.san...', 'SB-Mid-server-j...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php(84): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 91
+[09-Apr-2018 19:14:07 UTC] PHP Warning:  require(function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:14:07 UTC] PHP Fatal error:  require(): Failed opening required 'function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:14:47 UTC] PHP Warning:  require(function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:14:47 UTC] PHP Fatal error:  require(): Failed opening required 'function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:15:51 UTC] PHP Warning:  require(function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:15:51 UTC] PHP Fatal error:  require(): Failed opening required 'function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:15:57 UTC] PHP Warning:  require(function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:15:57 UTC] PHP Fatal error:  require(): Failed opening required 'function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:16:03 UTC] PHP Warning:  require(../../../../function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:16:03 UTC] PHP Fatal error:  require(): Failed opening required '../../../../function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:16:10 UTC] PHP Warning:  require(../../../../function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:16:10 UTC] PHP Fatal error:  require(): Failed opening required '../../../../function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:16:23 UTC] PHP Warning:  require(../../../../function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:16:23 UTC] PHP Fatal error:  require(): Failed opening required '../../../../function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:16:30 UTC] PHP Warning:  require(../../../../function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:16:30 UTC] PHP Fatal error:  require(): Failed opening required '../../../../function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:16:35 UTC] PHP Warning:  require(../../function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:16:35 UTC] PHP Fatal error:  require(): Failed opening required '../../function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:16:55 UTC] PHP Warning:  require(function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:16:55 UTC] PHP Fatal error:  require(): Failed opening required 'function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:17:07 UTC] PHP Warning:  require(function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:17:07 UTC] PHP Fatal error:  require(): Failed opening required 'function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:17:33 UTC] PHP Warning:  require(function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:17:33 UTC] PHP Fatal error:  require(): Failed opening required 'function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:17:56 UTC] PHP Warning:  require(/../../function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:17:56 UTC] PHP Fatal error:  require(): Failed opening required '/../../function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:19:51 UTC] PHP Warning:  require(/../../function.php): failed to open stream: No such file or directory in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:19:51 UTC] PHP Fatal error:  require(): Failed opening required '/../../function.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php on line 2
+[09-Apr-2018 19:54:44 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Veritrans Error (401): Access denied due to unauthorized transaction, please check client or server key,Visit https://snap-docs.midtrans.com/#request-headers for more details' in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.san...', 'Mid-server-J3D-...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.san...', 'Mid-server-J3D-...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php(78): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[09-Apr-2018 19:54:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Veritrans Error (401): Access denied due to unauthorized transaction, please check client or server key,Visit https://snap-docs.midtrans.com/#request-headers for more details' in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.san...', 'Mid-server-J3D-...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.san...', 'Mid-server-J3D-...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php(78): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[09-Apr-2018 19:55:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Veritrans Error (401): Access denied due to unauthorized transaction, please check client or server key,Visit https://snap-docs.midtrans.com/#request-headers for more details' in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.san...', 'Mid-server-J3D-...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.san...', 'Mid-server-J3D-...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php(78): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[09-Apr-2018 19:56:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Veritrans Error (401): Access denied due to unauthorized transaction, please check client or server key,Visit https://snap-docs.midtrans.com/#request-headers for more details' in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.san...', 'Mid-server-J3D-...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.san...', 'Mid-server-J3D-...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php(78): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[09-Apr-2018 19:56:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Veritrans Error (401): Access denied due to unauthorized transaction, please check client or server key,Visit https://snap-docs.midtrans.com/#request-headers for more details' in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.san...', 'Mid-server-J3D-...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.san...', 'Mid-server-J3D-...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php(78): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[12-Apr-2018 11:18:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Veritrans Error (400): Items name is required,Items price is required,Items price is not a number,transaction_details.gross_amount is not equal to the sum of item_details' in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.san...', 'SB-Mid-server-j...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.san...', 'SB-Mid-server-j...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[18-Apr-2018 16:40:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Veritrans Error (400): Items name is required,Items price is required,Items price is not a number,transaction_details.gross_amount is not equal to the sum of item_details' in /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[18-Apr-2018 16:41:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Veritrans Error (400): Items name is required,Items price is required,Items price is not a number,transaction_details.gross_amount is not equal to the sum of item_details' in /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[18-Apr-2018 16:44:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Veritrans Error (400): Items name is required,Items price is required,Items price is not a number,transaction_details.gross_amount is not equal to the sum of item_details' in /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/d3m0s1t3/public_html/ideasmart/demotest/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[19-Apr-2018 16:35:27 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (400): customer_details.email format is invalid in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/ideasmart/public_html/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[20-Apr-2018 03:29:14 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (400): Items name is required,Items price is required,Items price is not a number,customer_details.email format is invalid,transaction_details.gross_amount is not equal to the sum of item_details in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/ideasmart/public_html/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[20-Apr-2018 03:29:53 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (400): Items name is required,Items price is required,Items price is not a number,customer_details.email format is invalid,transaction_details.gross_amount is not equal to the sum of item_details in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/ideasmart/public_html/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[20-Apr-2018 03:40:50 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (400): Items name is required,Items price is required,Items price is not a number,customer_details.email format is invalid,transaction_details.gross_amount is not equal to the sum of item_details in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/ideasmart/public_html/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[20-Apr-2018 03:41:02 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (400): Items name is required,Items price is required,Items price is not a number,customer_details.email format is invalid,transaction_details.gross_amount is not equal to the sum of item_details in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/ideasmart/public_html/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[20-Apr-2018 03:48:25 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (400): Items name is required,Items price is required,Items price is not a number,customer_details.email format is invalid,transaction_details.gross_amount is not equal to the sum of item_details in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/ideasmart/public_html/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[20-Apr-2018 03:49:05 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (400): Items name is required,Items price is required,Items price is not a number,customer_details.email format is invalid,transaction_details.gross_amount is not equal to the sum of item_details in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/ideasmart/public_html/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[20-Apr-2018 03:49:33 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (400): Items name is required,Items price is required,Items price is not a number,customer_details.email format is invalid,transaction_details.gross_amount is not equal to the sum of item_details in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/ideasmart/public_html/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[20-Apr-2018 03:54:43 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (400): Items name is required,Items price is required,Items price is not a number,customer_details.email format is invalid,transaction_details.gross_amount is not equal to the sum of item_details in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/ideasmart/public_html/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[20-Apr-2018 03:56:43 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (400): customer_details.email format is invalid in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/ideasmart/public_html/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[20-Apr-2018 04:07:22 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (400): customer_details.email format is invalid in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/ideasmart/public_html/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[20-Apr-2018 04:10:16 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (400): customer_details.email format is invalid in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'Mid-server-J3D-...', Array, true)
+#1 /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'Mid-server-J3D-...', Array)
+#2 /home/ideasmart/public_html/apps/mobile/midtrans-php/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/apps/mobile/midtrans-php/Veritrans/SnapApiRequestor.php on line 98
+[09-May-2018 10:12:11 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (401): Access denied due to unauthorized transaction, please check client or server key,Visit https://snap-docs.midtrans.com/#request-headers for more details in /home/ideasmart/public_html/appsdemo/mobile/midtrans-apps/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/appsdemo/mobile/midtrans-apps/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'SB-Mid-server-j...', Array, true)
+#1 /home/ideasmart/public_html/appsdemo/mobile/midtrans-apps/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'SB-Mid-server-j...', Array)
+#2 /home/ideasmart/public_html/appsdemo/mobile/midtrans-apps/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/appsdemo/mobile/midtrans-apps/Veritrans/SnapApiRequestor.php on line 98
+[09-May-2018 10:15:18 UTC] PHP Fatal error:  Uncaught Exception: Veritrans Error (401): Access denied due to unauthorized transaction, please check client or server key,Visit https://snap-docs.midtrans.com/#request-headers for more details in /home/ideasmart/public_html/appsdemo/mobile/midtrans-apps/Veritrans/SnapApiRequestor.php:98
+Stack trace:
+#0 /home/ideasmart/public_html/appsdemo/mobile/midtrans-apps/Veritrans/SnapApiRequestor.php(28): Veritrans_SnapApiRequestor::remoteCall('https://app.mid...', 'SB-Mid-server-j...', Array, true)
+#1 /home/ideasmart/public_html/appsdemo/mobile/midtrans-apps/Veritrans/Snap.php(53): Veritrans_SnapApiRequestor::post('https://app.mid...', 'SB-Mid-server-j...', Array)
+#2 /home/ideasmart/public_html/appsdemo/mobile/midtrans-apps/examples/snap/checkout-process.php(68): Veritrans_Snap::getSnapToken(Array)
+#3 {main}
+  thrown in /home/ideasmart/public_html/appsdemo/mobile/midtrans-apps/Veritrans/SnapApiRequestor.php on line 98

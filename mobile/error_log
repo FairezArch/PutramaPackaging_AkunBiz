@@ -1,0 +1,16 @@
+[25-Feb-2019 15:01:20 Asia/Jakarta] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 634
+[25-Feb-2019 15:01:20 Asia/Jakarta] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 635
+[25-Feb-2019 15:16:32 Asia/Jakarta] PHP Warning:  date() expects parameter 2 to be integer, string given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 1790
+[25-Feb-2019 15:16:32 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ideasmart/public_html/appsdemo/mobile/functionv2.php on line 304
+[25-Feb-2019 15:19:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 235
+[26-Feb-2019 07:45:27 Asia/Jakarta] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 634
+[26-Feb-2019 07:45:27 Asia/Jakarta] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 635
+[26-Feb-2019 07:45:56 Asia/Jakarta] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 634
+[26-Feb-2019 07:45:56 Asia/Jakarta] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 635
+[26-Feb-2019 08:11:04 Asia/Jakarta] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 634
+[26-Feb-2019 08:11:04 Asia/Jakarta] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 635
+[26-Feb-2019 08:12:02 Asia/Jakarta] PHP Warning:  date() expects parameter 2 to be integer, string given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 1790
+[26-Feb-2019 08:12:02 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ideasmart/public_html/appsdemo/mobile/functionv2.php on line 304
+[26-Feb-2019 08:12:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 235
+[26-Feb-2019 09:34:58 Asia/Jakarta] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 634
+[26-Feb-2019 09:34:58 Asia/Jakarta] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/ideasmart/public_html/appsdemo/mobile/mobile-postv2.php on line 635

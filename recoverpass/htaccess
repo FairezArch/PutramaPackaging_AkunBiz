@@ -1,0 +1,7 @@
+# BEGIN custom modification
+
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://akun.pro/demo_putrama/recoverpass/$1 [R,L]
+
+# END custom modification

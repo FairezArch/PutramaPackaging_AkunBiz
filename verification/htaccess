@@ -1,0 +1,7 @@
+# BEGIN custom modification
+
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ http://localhost/appsdemo/verification/$1 [R,L]
+
+# END custom modification

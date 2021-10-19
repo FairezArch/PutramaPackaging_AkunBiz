@@ -1,0 +1,7 @@
+# BEGIN custom modification
+
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://www.ideasmart.id/appsdemo/$1 [R,L]
+
+# END custom modification
